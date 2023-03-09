@@ -1,0 +1,10 @@
+dans cette partie je vais detailler toutes les pages ainsi que leurs fonctionnalite.
+#les pages de connexion
+    page de d'accueil est nommée : HM.dart et à comme classe HOME.
+    page de login est nommée : Login.dart et à comme classe Login.
+    page de Sign_Up est nommée : Sign_Up.dart et à comme classe Sign_Up.
+    page de Deconnection est nommée : deconnecter.dart et à comme classe Disconncete.
+
+
+page pour slide de chaque image pour est nommée : image_detail.dart et à comme classe HomePage.
+page de Sign_Up est nommée : Sign_Up.dart et à comme classe Sign_Up.
